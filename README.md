@@ -8,8 +8,17 @@ This course project focused on programming a **UR5 robot** to build simple struc
 ## Final Result
 
 Video of the finished project:
+video too big so in two parts
+Part 1:
 
-*(Add video link here)*
+https://github.com/user-attachments/assets/1e3f7ed8-40e8-4493-b314-19afe027e792
+
+Part 2:
+
+https://github.com/user-attachments/assets/6202f32e-5542-47a2-9813-fff2f6526f79
+
+
+
 
 ---
 
@@ -88,4 +97,6 @@ Overall, the project provided valuable hands-on experience in robotics programmi
 ### some in between videos
 Video of the midpoint: 
 picture of the code in Visual component
+<img width="960" height="1280" alt="WhatsApp Image 2026-11-10 at 21 03 18 (1)" src="https://github.com/user-attachments/assets/14911b0e-b88c-435b-89cd-1e717def7b2f" />
+
 
